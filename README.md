@@ -70,6 +70,7 @@ Cloned:-  https://pluralsight-clone-1.netlify.app/
 - [@Akshay Dwankar](https://github.com/akshaydwankar3)
 - [@Anwerdeen M](https://github.com/AnwardeenM)
 - [@Surajit Dhar](https://github.com/surajit00)
+- [@Ranjith](https://github.com/ranjith1211)
 
 
 ## End Notes
